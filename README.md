@@ -1,5 +1,5 @@
 # Certbot-duckDNS
 
-duckDNS hook for Let's Encrypt.
+Duck DNS hook for Let's Encrypt.
 
-Replace "DOMAIN" with your DuckDNS domain name and "TOKEN" with your DuckDNS token.
+Replace "DOMAIN" with your Duck DNS domain name and "TOKEN" with your Duck DNS token.
